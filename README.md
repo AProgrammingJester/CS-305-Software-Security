@@ -1,5 +1,7 @@
 # CS-305-Software-Security
 
+# Software Security Assessment — Artemis Financial
+
 |Module quetions|My response| 
 |-----:|-----------|
 |1. Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?| Artemis Financial is a client representing a mid-sized financial services company responsible for sensitive client data. The primary software requirement was to ensure that their core application, a REST-based financial service, was free from known vulnerabilities, particularly those arising from third-party dependencies. The key issue Artemis wanted addressed was the risk posed by outdated or insecure libraries commonly included during rapid development, which could lead to data breaches or compliance failures.|
